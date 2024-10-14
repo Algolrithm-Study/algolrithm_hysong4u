@@ -4,7 +4,6 @@
 #include <string.h>
 
 typedef char element;
-
 typedef struct {
     int top;
     element *data;
